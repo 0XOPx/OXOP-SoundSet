@@ -4,6 +4,8 @@
 - OmniMIDI by KeppySoftware
 - (and more)
 
+<p>Example: [The HYBRID Collage.mp3](https://github.com/user-attachments/files/32203809/The.HYBRID.Collage.mp3)</p>
+
 ## If you are using in a MIDI video, please credit me like this:
 - Soundfont: OXOP SoundSet v1.00.00 by OXOP
 - SF: OXOP SoundSet v1.00.00 by OXOP
